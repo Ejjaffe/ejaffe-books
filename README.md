@@ -1,8 +1,6 @@
 # Books
 ## Intro
-Notes on books I'm reading or have read. 
-
-Focus on Philosophy of Science, Mathematics, and maybe more.
+Notes on books I'm reading or have read. Focus on Philosophy of Science and Mathematics.
 
 If you're viewing this from the repo, click [here](https://ejjaffe.github.io/ejaffe-books/).
 
