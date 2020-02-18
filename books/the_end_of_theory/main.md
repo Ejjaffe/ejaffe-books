@@ -12,4 +12,6 @@ Bookstaber's main idea is that **classical economic models are too idealized to 
 I will be summarizing and adding additional mathematical or philosophical notes to chapters, as I see fit.
 
 ## Chapter 1
-UChicago economist Robert Lucas: "Economics could not give useful service to the 2008 economic crisis because economic theory has established it cannot predict such crises." Cites two works, one by Watson (2014) called ["Uneconomic Economics and the Crisis of the Model World"](https://www.amazon.com/Uneconomic-Economics-Building-Sustainable-Political/dp/1137385480) p 74-75, and Lucas (2009), ["In defense of the dismal science"](https://www.economist.com/finance-and-economics/2009/08/06/in-defence-of-the-dismal-science), Economist (Paywalled).
+UChicago economist Robert Lucas: "Economics could not give useful service to the 2008 economic crisis because economic theory has established it cannot predict such crises." 
+
+Cites two works, one by Watson (2014) called ["Uneconomic Economics and the Crisis of the Model World"](https://www.amazon.com/Uneconomic-Economics-Building-Sustainable-Political/dp/1137385480) p 74-75 (Amazon.com), and Lucas (2009), ["In defense of the dismal science"](https://www.economist.com/finance-and-economics/2009/08/06/in-defence-of-the-dismal-science), (The Economist, Paywalled).
