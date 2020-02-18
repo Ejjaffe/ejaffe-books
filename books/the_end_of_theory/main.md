@@ -4,6 +4,8 @@ Financial Crises, the Failure of Economics, and the Sweep of Human Interaction
 
 By: [Richard Bookstaber](https://en.wikipedia.org/wiki/Richard_Bookstaber)
 
+[Main Page](https://ejjaffe.github.io/ejaffe-books/)
+
 ## Introduction
 I'm excited to be reading this book, which I hope will be a deeper critique on the parts of classical economics that I found to be less than satisfying in college. Bookstaber is a professor at University of California, formerly at the US Treasury and a risk-manager at Morgan Stanley. 
 
