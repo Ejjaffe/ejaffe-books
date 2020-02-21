@@ -25,6 +25,8 @@ I will be summarizing and adding links or additional mathematical or philosophic
 * Despite the assumption of rational actors and systems, we accept that crisis is unexplainable and unpredictable. "Economics works, until it doesn't" writes Bookstaber. "Everyone has a plan until they get punched in the mouth."
 * Stunning absoloutely nobody, Bookstaber insists the solution is agent based economics, with an emphasis on **the mathematical/scientific ideas** of complexity/chaos theory such as emergent phenomena, ergodicity, and computational irreducability. From this stance I think we see his idea of mathematics is "basic traditional models".
 * I think that Bookstaber is about to tear into classical/neo-classical economics just like Behavioral econ did, but sloppier, in a way that ignores scope -- rationality isn't neccisarily always inappropriate for considering economic decisions. Behavioral economics largely focuses on in-person interactions on the individual scale. Large-scale actors such as financial institutions probably operate  according to "rational" economic theory, especially since they have been indoctrinated in the theory themselves.
+* Furthermore, I wonder if Bookstaber understands that theoretically, completeness and consistency are at odds in many logical models.
 
+TL;DR: Current economic theory can't predict crisis. "It works until it doesn't", and the boundary isn't satisfying. The main culprit is claimed to be "Rationality".
 ## Chapter 2
 **Agent-based is agile.**
