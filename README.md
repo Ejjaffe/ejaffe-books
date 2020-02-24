@@ -6,5 +6,6 @@ If you're viewing this from the repo, click [here](https://ejjaffe.github.io/eja
 
 ## Book List
 1. [The End Of Theory, Richard Bookstaber](https://ejjaffe.github.io/ejaffe-books/books/the_end_of_theory/main.html)
-2. [The Structure of Scientific Revolutions, Thomas Kuhn](https://ejjaffe.github.io/ejaffe-books/books/structure_of_scientific_revolutions/main.html)
-3. [Against Method, Paul Feyerabend](https://ejjaffe.github.io/ejaffe-books/books/against_method/main.html)
+2. [(April 2020) The Structure of Scientific Revolutions, Thomas Kuhn](https://ejjaffe.github.io/ejaffe-books/books/structure_of_scientific_revolutions/main.html)
+3. [(May-June 2020) Against Method, Paul Feyerabend](https://ejjaffe.github.io/ejaffe-books/books/against_method/main.html)
+4. [(June-Aug 2020) Objectivity, Lorraine Daston, et. al](https://ejjaffe.github.io/ejaffe-books/books/objectivity/main.html)
